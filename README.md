@@ -2,7 +2,7 @@
 
 A software engineer (and philsophy) student specializing in general backend development with technologies listed in the toolbox below.
 
-I like to work on building useful applications mostly with Java and Python that are deployable on the cloud solutions like AWS, but I am also developing myself in other areas such as team building, clean agile and leading software projects as scrum master. Add me on LinkedIn to follow my progresss.
+I like to work on building useful applications mostly with Java and Python that are deployable on the cloud solutions like AWS, but I am also developing myself in other areas such as team building, clean agile and leading software projects as a scrum master. Add me on <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script> to follow my progresss.
 
 I started coding back when doing a web devlopment bootcamp back in 2018, but after trying to get in the software development field I came to the conclusion that technical skills were not adiquate, thus I persued an education in software Development.
 
