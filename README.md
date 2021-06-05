@@ -1,4 +1,4 @@
-### Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, my name is Hichem
+### Hey there, my name is Hichem <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 A software engineer (and philsophy) student specializing in general backend development with technologies listed in the toolbox below.
 
