@@ -9,7 +9,7 @@ I started coding back when doing a web devloper bootcamp back in 2018, after try
 
 ---
 
-🧰 Toolbox
+🧰 Toolbox:
 
 <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/php.svg" alt="PHP Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git Logo" width="50" height="50"/>
 
