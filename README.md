@@ -14,14 +14,6 @@ I started coding back when doing a web devloper bootcamp back in 2018, after try
 
 ---
 
-
-
-
-
-
-<!--
-**Htou/Htou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -32,7 +24,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+---
+## &#x1f4c8; This week I spent my time on
+<img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 ## &#x1f4c8; My GitHub Stats
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Htou&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Htou&layout=compact&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
