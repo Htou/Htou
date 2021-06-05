@@ -2,7 +2,7 @@
 
 A software engineer (and philsophy) student specializing in general backend development with technologies listed in the toolbox below.
 
-I like to work on building useful applications mostly with Java and Python that are deployable on the cloud solutions like AWS, but I am also developing myself in other areas such as team building, clean agile and leading software projects as a scrum master. Add me on <a href="https://www.linkedin.com/in/hichem-touati-134425165/" rel="nofollow noreferrer">
+I like to work on building useful applications mostly with Java and Python, that are deployable on the cloud, but I am also developing myself in other areas such as team building, clean agile and leading software projects as a scrum master. Add me on <a href="https://www.linkedin.com/in/hichem-touati-134425165/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp;
   
