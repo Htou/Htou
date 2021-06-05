@@ -8,16 +8,22 @@ I started coding back when doing a web devlopment bootcamp back in 2018, but aft
 
 ---
 
-🧰 Toolbox:
+🧰 **Toolbox:**
 
 <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java Logo" width="60" height="60"/> <img src="https://cdn.worldvectorlogo.com/logos/python.svg" alt="Python Logo" width="60" height="60"/> <img src="https://cdn.worldvectorlogo.com/logos/php.svg" alt="PHP Logo" width="60" height="60"/> <img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML Logo" width="60" height="60"/> <img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git Logo" width="60" height="60"/> 
----
 
-🔭 My area of focus:
+🔭 **My area of focus:**
+- 👨🏻‍💻 I’m currently working on something cool;
+- 🚀 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/GKassym);
+- 💬 Ask me about anything, I am happy to help;
+- 📝 I regulary write articles on [medium](https://gapur-kassym.medium.com);
+- 📫 How to reach me: gapur.kassym@gmail.com;
+- 📝 [Resume](https://gkassym.netlify.app/Resume.pdf).
 
----
-## &#x1f4c8; This week I spent my time on
+
+
+📊 **This Week I Spent My Time On:**
 <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Htou&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-## &#x1f4c8; My GitHub Stats
+📈 **My GitHub Stats:**
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Htou&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Htou&layout=compact&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
