@@ -1,6 +1,6 @@
 ### Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, my name is Hichem
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 ---
+
 A software engineer (and philsophy) student specializing in general backend development with technologies listed in the toolbox below.
 
 I like to work on building useful applications, mostly with Java and Python, that are deployable on the cloud like aws, but I am also developing myself in other areas such as team building, scrum and clean agile. Hit me up with a conntection on LinkedIn to follow my progresss.
