@@ -4,8 +4,7 @@ A software engineer (and philsophy) student specializing in general backend deve
 
 I like to work on building useful applications mostly with Java and Python, that are deployable on the cloud, but I am also developing myself in other areas such as team building, clean agile and leading software projects as a scrum master. Add me on <a href="https://www.linkedin.com/in/hichem-touati-134425165/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
-  </a> &nbsp;
-to follow my progress.
+  </a> &nbsp; to follow my progress.
   
 I started coding back when doing a web devlopment bootcamp back in 2018, but after trying to get in the software development field I came to the conclusion that technical skills were not adequate, thus I persued an education in software Development.
 
