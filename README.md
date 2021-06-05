@@ -21,7 +21,7 @@ I started coding back when doing a web devlopment bootcamp back in 2018, but aft
 - Clean code
 - Design Patterns
 - Data Structures & Algorithms
-- structured text representation like JSON
+- Structured text representation like JSON
 - Computer science for various domains
 - Normalized database languages like PostreSQL or Mysql
 - Cloud solutions like AWS
