@@ -6,12 +6,12 @@ A software engineer (and philsophy) student specializing in general backend deve
 I like to work on building useful applications, mostly with Java and Python, that are deployable on the cloud like aws, but I am also developing myself in other areas such as team building, scrum and clean agile. Hit me up with a subscribe to follow my progress.
 
 I started coding back when doing a web devloper bootcamp back in 2018, after trying to get in the workfield 
-
 ---
 
 🧰 Toolbox
-
+<img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
 ---
+
 
 
 
