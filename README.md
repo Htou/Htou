@@ -31,9 +31,7 @@ I started coding way back when doing a web devlopment bootcamp back in 2018, but
 ---
 
 📊 **This Week I Spent My Time On:**
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<img height="180em src="https://wakatime.com/share/@Htou/db181172-d9c0-4307-b24e-56f1e28daddf.svg"/>
 
 
 📈 **My GitHub Stats:**
