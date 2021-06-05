@@ -27,5 +27,7 @@ I started coding back when doing a web devlopment bootcamp back in 2018, but aft
 📊 **This Week I Spent My Time On:**
 <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Htou&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
+---
+
 📈 **My GitHub Stats:**
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Htou&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Htou&layout=compact&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
