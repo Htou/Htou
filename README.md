@@ -2,7 +2,7 @@
 
 A software engineer (and philsophy) student specializing in general backend development with technologies listed in the toolbox below.
 
-I like to work on building useful applications, mostly with Java and Python, that are deployable on the cloud solutions like AWS, but I am also developing myself in other areas such as team building, scrum and clean agile. Add me on LinkedIn to follow my progresss.
+I like to work on building useful applications, mostly with Java and Python, that are deployable on the cloud solutions like AWS, but I am also developing myself in other areas such as team building, clean agile and leading software projects as scrum master. Add me on LinkedIn to follow my progresss.
 
 I started coding back when doing a web devlopment bootcamp back in 2018, but after trying to get in the software development field I came to the conclusion that technical skills were not adiquate, thus I persued an education in software Development.
 
@@ -15,12 +15,16 @@ I started coding back when doing a web devlopment bootcamp back in 2018, but aft
 ---
 
 🔭 **My area of focus:**
-- 👨🏻‍💻 I’m currently working on something cool;
-- 🚀 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/GKassym);
-- 💬 Ask me about anything, I am happy to help;
-- 📝 I regulary write articles on [medium](https://gapur-kassym.medium.com);
-- 📫 How to reach me: gapur.kassym@gmail.com;
-- 📝 [Resume](https://gkassym.netlify.app/Resume.pdf).
+- Scrum mastery
+- Clean agile
+- Object oriented programming
+- Clean code
+- Design Patterns
+- Data Structures & Algorithms
+- structured text representation like JSON
+- Computer science for various domains
+- Normalized database languages like PostreSQL or Mysql
+- Cloud solutions like AWS
 
 ---
 
