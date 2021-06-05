@@ -5,13 +5,13 @@ A software engineer (and philsophy) student specializing in general backend deve
 
 I like to work on building useful applications, mostly with Java and Python, that are deployable on the cloud like aws, but I am also developing myself in other areas such as team building, scrum and clean agile. Hit me up with a conntection on LinkedIn to follow my progresss.
 
-I started coding back when doing a web devloper bootcamp back in 2018, after trying to get in the software development field I came to the conclusion that technical skills were not adiquate, thus I persued an education in software Development
+I started coding back when doing a web devloper bootcamp back in 2018, after trying to get in the software development field I came to the conclusion that technical skills were not adiquate, thus I persued an education in software Development.
 
 ---
 
 🧰 Toolbox:
 
-<img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/python.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/php.svg" alt="PHP Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java Logo" width="60" height="60"/> <img src="https://cdn.worldvectorlogo.com/logos/python.svg" alt="Python Logo" width="60" height="60"/> <img src="https://cdn.worldvectorlogo.com/logos/php.svg" alt="PHP Logo" width="60" height="60"/> <img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git Logo" width="60" height="60"/>
 
 ---
 
