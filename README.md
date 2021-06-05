@@ -12,6 +12,8 @@ I started coding back when doing a web devlopment bootcamp back in 2018, but aft
 
 <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java Logo" width="60" height="60"/> <img src="https://cdn.worldvectorlogo.com/logos/python.svg" alt="Python Logo" width="60" height="60"/> <img src="https://cdn.worldvectorlogo.com/logos/php.svg" alt="PHP Logo" width="60" height="60"/> <img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML Logo" width="60" height="60"/> <img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git Logo" width="60" height="60"/> 
 
+---
+
 🔭 **My area of focus:**
 - 👨🏻‍💻 I’m currently working on something cool;
 - 🚀 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/GKassym);
@@ -20,7 +22,7 @@ I started coding back when doing a web devlopment bootcamp back in 2018, but aft
 - 📫 How to reach me: gapur.kassym@gmail.com;
 - 📝 [Resume](https://gkassym.netlify.app/Resume.pdf).
 
-
+---
 
 📊 **This Week I Spent My Time On:**
 <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Htou&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
