@@ -19,7 +19,7 @@ I started coding way back when doing a web devlopment bootcamp back in 2018, but
 🔭 **My area of focus:**
 - Scrum mastery
 - Clean agile
-- Object oriented programming
+- Object oriented thinking
 - Clean code
 - Design Patterns
 - Data Structures & Algorithms
