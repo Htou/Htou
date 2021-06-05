@@ -35,7 +35,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
----
 ## &#x1f4c8; My GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Htou&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
