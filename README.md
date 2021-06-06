@@ -31,7 +31,9 @@ I started coding way back when doing a web devlopment bootcamp back in 2018, but
 ---
 
 📊 **This Week I Spent My Time On:**
-
+<a>
+  <img align="center" src="@Htou&compact=True">https://github-readme-stats.vercel.app/api/wakatime?username=@rahulbanerjee26&compact=True"/>
+</a>
 
 
 📈 **My GitHub Stats:**
