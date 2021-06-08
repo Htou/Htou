@@ -12,7 +12,7 @@ I started coding way back when doing a web devlopment bootcamp back in 2018, but
 
 🧰 **Toolbox:**
 
-<img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java Logo" width="60" height="60"/> <img src="https://cdn.worldvectorlogo.com/logos/python.svg" alt="Python Logo" width="60" height="60"/> <img src="https://cdn.worldvectorlogo.com/logos/php.svg" alt="PHP Logo" width="60" height="60"/> <img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML Logo" width="60" height="60"/> <img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git Logo" width="60" height="60"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java Logo" width="60" height="60"/> <img src="https://cdn.worldvectorlogo.com/logos/python.svg" alt="Python Logo" width="60" height="60"/> <img src="https://cdn.worldvectorlogo.com/logos/php.svg" alt="PHP Logo" width="60" height="60"/> <img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="60" height="60"/> <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML Logo" width="60" height="60"/> <img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git Logo" width="60" height="60"/> 
 
 ---
 
