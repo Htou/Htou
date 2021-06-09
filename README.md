@@ -21,7 +21,7 @@ I started coding way back when doing a web devlopment bootcamp back in 2018, but
 - Clean agile
 - Object oriented thinking
 - Clean code
-- Design Patterns
+- Software design & design patterns
 - Data Structures & Algorithms
 - Structured text representation like JSON
 - Computer science fundamentals
